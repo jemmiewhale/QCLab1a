@@ -23,8 +23,8 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="QCLab1" />
+        <module name="QCLab1a" />
       </profile>
     </annotationProcessing>
   </component>
 </project>
-
